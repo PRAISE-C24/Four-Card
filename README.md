@@ -13,8 +13,8 @@ Users should be able to:
 
 # Screenshot
 
-.design/screenshot.png
-.design/mobile-design.jpg
+![](./design/mobile-design.jpg)
+![](./design/screenshot.png)
 
 # Links
 
