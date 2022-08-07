@@ -3,7 +3,7 @@
 
 This is my solution to the [Four card feature section challenge on Frontend Mentor].
 
-* Note:there are some ways to complete this challenge, so this is my own way of completing the challenge.
+* Note:there are so many ways to complete this challenge, so this is my own way of completing the challenge.
 
 # Challenge
 
